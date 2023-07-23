@@ -104,4 +104,3 @@ For any questions or issues, feel free to contact the author.
 Author: Divya Rakheja
 
 Contact: m22ai552@iitj.ac.in
-![tree-736885_1280](https://github.com/Divyarakheja/EditREADME-1/assets/132153971/637ad76f-b3e6-465d-9d02-124bfddad244)
