@@ -85,7 +85,13 @@ Testing Clustering Accuracy: 61.03 %
 ## Reconstruction Error
 The reconstruction error is calculated as the Mean Squared Error (MSE) between the original images and their corresponding reconstructed images. It indicates how well the Sparse Autoencoder can reconstruct the input images.
 
-Reconstruction Error (MSE) on Test Set: 0.01605
+Reconstruction Error (MSE) on Test Set: 0.01475
+
+## Original and Reconstructed images
+This visualization helps to assess the performance of the Sparse Autoencoder model by visually inspecting how well the model has learned to reconstruct the input images.
+
+![image](https://github.com/Divyarakheja/EditREADME-1/assets/132153971/88cd6b3f-fd51-45e4-b9b1-cd5fcf803aa5)
+
 
 ## Running the Code
 To run the code, follow these steps:
