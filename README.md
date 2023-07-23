@@ -99,6 +99,12 @@ Python environment with the required libraries installed.
 
 * Remember to save your notebook periodically by clicking on "File" > "Save" or by using the keyboard shortcut Ctrl + S.
 
+* ## Conclusion
+
+The project successfully implements Sparse Autoencoders and applies k-means clustering to the embeddings of the MNIST digit dataset. The clustering accuracy obtained provides insight into the performance of the algorithm in grouping similar digits together.
+
+For further details and code implementation, please refer to the "DL_Assign3_Ques1.ipynb" notebook in this repository.
+
 For any questions or issues, feel free to contact the author.
 
 Author: Divya Rakheja
